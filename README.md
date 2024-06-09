@@ -1,6 +1,7 @@
 # classification-challenge
 ## Summary 
-- Using logistic Regression model vs Random Tree Classifier models to determine which is best for determining what is "spam" and what is not
+- Using logistic Regression model vs Random Tree Classifier models to determine which is best for determining what is "spam" and what is not  
+
 ## Requirements
 
 - pandas
@@ -16,3 +17,8 @@
         - LogisticRegression
     - ensemble
         - RandomForestClassifier
+
+## Instructions
+- clone repo
+- install requirements
+- run spam_detector.ipynb file
